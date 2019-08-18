@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBlack:#222;
+$mainGreen:rgb(28, 126, 52);
+$mainWhite:rgb(233, 233, 233);
+$mainGrey:rgb(165, 165, 165);
+
+body {
+    background: $mainWhite;
+    color: $mainBlack;
+    font-family: 'Roboto', sans-serif;
+
+}
